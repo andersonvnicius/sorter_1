@@ -1,6 +1,6 @@
 # Package Sorter
 
-A simple Python utility function that classifies packages based on their dimensions and mass.
+A simple Python utility function that classifies packages based on their dimensions (cm3) and mass (kg).
 
 ## Function Overview
 
